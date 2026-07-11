@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=750&lines=🏠+Touch-Free+Smart+Home+Control;Hand+Gesture+%2B+Arduino+%2B+Bluetooth;Computer+Vision+meets+Embedded+Systems" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=750&lines=%F0%9F%8F%A0+Touch-Free+Smart+Home+Control;Hand+Gesture+%2B+Arduino+%2B+Bluetooth;Computer+Vision+meets+Embedded+Systems)
 
 <br/>
 
@@ -255,32 +255,7 @@ A complete technical report (`PG05_REPORT.pdf`) is included in the repository, c
 
 ---
 
-## <img src="https://img.shields.io/badge/-👤 Developer-0D1117?style=for-the-badge&labelColor=1B4F72&color=21618C" />
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Mayur B. Gund</b><br>
-      B.Tech Computer Science Engineering<br>
-      Sanjivani College of Engineering, Shirdi<br><br>
-      <a href="https://linkedin.com/in/mgund1920">
-        <img src="https://img.shields.io/badge/LinkedIn-mgund1920-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-      </a>&nbsp;
-      <a href="mailto:mgund1920@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-mgund1920@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-      </a>&nbsp;
-      <a href="https://github.com/engineermayur-07">
-        <img src="https://img.shields.io/badge/GitHub-engineermayur--07-181717?style=flat&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://img.shields.io/badge/-📜 License-0D1117?style=for-the-badge&labelColor=424949&color=566573" />
-
-This project is licensed under the [MIT License](LICENSE).
+ 
 
 ---
 
